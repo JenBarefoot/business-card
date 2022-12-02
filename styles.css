@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.card {
+    padding: 20px;
+    display:flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    color: #2b2839;
+    background-color: #eddcd2;
+    border-bottom: 6px solid #b24c63;
+    border-radius: 5%;
+
+}
+
+.avatar {
+    width: 150px;
+    border: 4px double #b24c63;
+    border-radius: 50%;
+}
+
+.text {
+    margin: 30px 0;
+
+}
